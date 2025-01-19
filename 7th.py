@@ -1,0 +1,6 @@
+x=int(3.27)
+y=float(33)
+z=str("s9")
+print(x)
+print(y)
+print(z)
